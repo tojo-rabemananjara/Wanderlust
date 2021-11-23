@@ -13,4 +13,4 @@ OpenWeather's API
 FourSquare's API
 
 ## Launch
-go to `http://tojo-wanderlust.surge.sh`
+go to https://tojo-wanderlust.surge.sh
